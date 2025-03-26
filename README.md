@@ -8,3 +8,5 @@ The user can add, edit, or delete expenses
 ## Technologies used 
 * ASP.net MVC
 * C#
+* HTML
+* CSS
