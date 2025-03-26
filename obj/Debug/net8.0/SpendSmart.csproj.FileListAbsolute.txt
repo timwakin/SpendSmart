@@ -46,3 +46,4 @@ E:\Repos\SpendSmart\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 E:\Repos\SpendSmart\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 E:\Repos\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.AssemblyReference.cache
 E:\Repos\SpendSmart\obj\Debug\net8.0\SpendSmart.csproj.Up2Date
+E:\Repos\SpendSmart\obj\Debug\net8.0\SpendSmart.sourcelink.json
