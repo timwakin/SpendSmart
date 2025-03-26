@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\Repos\\SpendSmart\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:views\\home\\createeditexpense.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:views\\home\\expenses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C28E9C5-0200-4B8C-B855-A61B30D4D31B}|SpendSmart.csproj|e:\\repos\\spendsmart\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Repos\\SpendSmart\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -54,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Expenses.cshtml",
               "DocumentMoniker": "E:\\Repos\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Expenses.cshtml",
               "ToolTip": "E:\\Repos\\SpendSmart\\Views\\Home\\Expenses.cshtml",
               "RelativeToolTip": "Views\\Home\\Expenses.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-25T20:02:11.108Z",
               "EditorCaption": ""
@@ -80,38 +80,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Repos\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\Repos\\SpendSmart\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T19:52:48.62Z"
+              "WhenOpened": "2025-03-25T19:52:48.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Repos\\SpendSmart\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Repos\\SpendSmart\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Controllers\\HomeController.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "ToolTip": "E:\\Repos\\SpendSmart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T19:52:12.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateEditExpense.cshtml",
               "DocumentMoniker": "E:\\Repos\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\CreateEditExpense.cshtml",
               "ToolTip": "E:\\Repos\\SpendSmart\\Views\\Home\\CreateEditExpense.cshtml",
               "RelativeToolTip": "Views\\Home\\CreateEditExpense.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-25T20:25:58.168Z",
               "EditorCaption": ""
